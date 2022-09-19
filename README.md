@@ -15,3 +15,7 @@ My Github: https://github.com/LimeRicky84
 GitHub Repo: https://github.com/LimeRicky84/pwa-text-editor
 
 Live Page: https://dry-gorge-45239.herokuapp.com/
+
+## Screenshot
+
+![img](C:\Users\ricma\repos\pwa-text-editor\Assets\pwa editor screenshot.jpg)
