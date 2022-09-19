@@ -18,4 +18,4 @@ Live Page: https://dry-gorge-45239.herokuapp.com/
 
 ## Screenshot
 
-![img](C:\Users\ricma\repos\pwa-text-editor\Assets\pwa editor screenshot.jpg)
+![img](https://github.com/LimeRicky84/pwa-text-editor/blob/main/Assets/pwa%20editor%20screenshot.jpg?raw=true)
